@@ -343,3 +343,10 @@ body.locked .tabbar{display:none}
 .sheet .pad{padding-top:54px}
 .sheet .meal-hero+.pad{padding-top:16px}
 .nut b{direction:ltr;text-align:left}
+.hero.has-cover{padding-top:0}
+.hero-cover{width:calc(100% + 36px);margin:0 -18px 16px;aspect-ratio:16/9;object-fit:cover;display:block;background:var(--ps)}
+.seg.period{margin:4px 0 8px}
+.seg.period button{padding:7px 4px;font-size:13.5px}
+.period-note{display:flex;align-items:center;gap:6px;font-size:13px;color:var(--muted);margin:2px 4px 10px}
+.period-note .ic{width:16px;height:16px;color:var(--olive)}
+.period-note b{color:var(--ink)}
